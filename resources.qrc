@@ -1,0 +1,79 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/sheeran.mp3</file>
+        <file>assets/pictures/accept.png</file>
+        <file>assets/pictures/back_button.png</file>
+        <file>assets/pictures/background.jpg</file>
+        <file>assets/pictures/BrickPlatform.png</file>
+        <file>assets/pictures/Bricks.jpg</file>
+        <file>assets/pictures/CircleButton.png</file>
+        <file>assets/pictures/deny.png</file>
+        <file>assets/pictures/pause_button.png</file>
+        <file>assets/pictures/SpringItem.png</file>
+        <file>assets/pictures/SquareButton.png</file>
+        <file>assets/pictures/TriangleButton.png</file>
+        <file>assets/pictures/vplay-logo.png</file>
+        <file>assets/pictures/MovableShelf.png</file>
+        <file>assets/pictures/slope_orange.png</file>
+        <file>assets/pictures/beamForTrapDoor.png</file>
+        <file>assets/pictures/TrapDoor.png</file>
+        <file>assets/pictures/brickwall_small@3x.png</file>
+        <file>assets/pictures/brickwall_long@3x.png</file>
+        <file>assets/pictures/background@3x.png</file>
+        <file>assets/pictures/mainshape_circle@3x.png</file>
+        <file>assets/pictures/button_pause_normal@3x.png</file>
+        <file>assets/pictures/button_arrow_normal@3x.png</file>
+        <file>assets/pictures/pop up_leave@3x.png</file>
+        <file>assets/pictures/pop up_game over@3x.png</file>
+        <file>assets/pictures/game over_text@3x.png</file>
+        <file>assets/pictures/button_leave@3x.png</file>
+        <file>assets/pictures/button_cancel@3x.png</file>
+        <file>assets/FredokaOne-Regular.ttf</file>
+        <file>assets/pictures/button@3x.png</file>
+        <file>assets/pictures/shape_15@3x.png</file>
+        <file>assets/pictures/button_change_object_empty@3x.png</file>
+        <file>assets/pictures/button_change_triangle@3x.png</file>
+        <file>assets/pictures/button_change_square@3x.png</file>
+        <file>assets/pictures/button_change_circle@3x.png</file>
+        <file>assets/pictures/button_change_square_side@3x.png</file>
+        <file>assets/pictures/button_change_circle_side@3x.png</file>
+        <file>assets/pictures/button_change_triangle_side@3x.png</file>
+        <file>assets/pictures/soft_platform_cyan.png</file>
+        <file>assets/pictures/maineshape_square@3x.png</file>
+        <file>assets/pictures/mainshape_triangle@3x.png</file>
+        <file>assets/pictures/good_job_text.png</file>
+        <file>assets/pictures/brickwall_middle@3x.png</file>
+        <file>assets/pictures/brickwall_right@3x.png</file>
+        <file>assets/pictures/brickwall_left@3x.png</file>
+        <file>assets/pictures/save-icon.png</file>
+        <file>assets/pictures/shoy_title.png</file>
+        <file>assets/pictures/mainmenu_background.png</file>
+        <file>assets/pictures/icon_scores_unselected@3x.png</file>
+        <file>assets/pictures/icon_scores_selected@3x.png</file>
+        <file>assets/pictures/icon_levels_right_unselected@3x.png</file>
+        <file>assets/pictures/icon_levels_right_selected@3x.png</file>
+        <file>assets/pictures/icon_edit_unselected@3x.png</file>
+        <file>assets/pictures/icon_edit_selected@3x.png</file>
+        <file>assets/pictures/icon_delete_unselected@3x.png</file>
+        <file>assets/pictures/icon_delete_selected@3x.png</file>
+        <file>assets/pictures/background_my levels@3x.png</file>
+        <file>assets/pictures/mainscreen_textbackground@3x.png</file>
+        <file>assets/pictures/shape_13@3x.png</file>
+        <file>assets/pictures/shape_03_03@3x.png</file>
+        <file>assets/pictures/switch_02@3x.png</file>
+        <file>assets/pictures/switch_01@3x.png</file>
+        <file>assets/pictures/button_vibration_unselected@3x.png</file>
+        <file>assets/pictures/button_vibration_selected@3x.png</file>
+        <file>assets/pictures/button_sound on_unselected@3x.png</file>
+        <file>assets/pictures/button_sound on_selected@3x.png</file>
+        <file>assets/pictures/button_sound off_unselected@3x.png</file>
+        <file>assets/pictures/button_sound off_selected@3x.png</file>
+        <file>assets/pictures/button_settings_unselected@3x.png</file>
+        <file>assets/pictures/button_settings_selected@3x.png</file>
+        <file>assets/pictures/button_scores_selected@3x.png</file>
+        <file>assets/pictures/button_scores_unselected@3x.png</file>
+        <file>assets/pictures/score_background@3x.png</file>
+        <file>assets/pictures/popup_save_all@3x.png</file>
+        <file>assets/pictures/shape_14@3x.png</file>
+    </qresource>
+</RCC>
